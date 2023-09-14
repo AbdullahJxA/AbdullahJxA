@@ -2,15 +2,15 @@
 <h3 align="center">I'm a frontend developer with over 3 years of experience</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tthedevjxa" alt="tthedevjxa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahjxa" alt="tthedevjxa" /></a> </p>
 
-- My Portfollio [https://thedevjxa.ga](https://thedevjxa.ga)
+- My Portfollio [https://thedevjxa.gq](https://thedevjxa.gq)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/thedevjxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedevjxa" height="30" width="40" /></a>
+<a href="https://instagram.com/vqa.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedevjxa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jxaab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jxaab" height="30" width="40" /></a>
-<a href="https://discord.gg/iql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iql" height="30" width="40" /></a>
+<a href="[https://](https://discord.gg/BD9PgBaSqB)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iql" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
