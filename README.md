@@ -1,4 +1,4 @@
-<link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/css/boxicons.min.css" rel="stylesheet">
 
 <h1 align="center">Hi, I'm Abdullah aka JxA</h1>
 <h3 align="center">Frontend Developer with 3+ Years of Experience</h3>
@@ -21,11 +21,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <i class='bx bxl-javascript' style='font-size: 2rem;'></i>
-  <i class='bx bxl-html5' style='font-size: 2rem;'></i>
-  <i class='bx bxl-css3' style='font-size: 2rem; color:#1572B6;'></i>
-  <i class='bx bxl-nodejs' style='font-size: 2rem;'></i>
-  <i class='bx bxl-visual-studio' style='font-size: 2rem;'></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="40" alt="Visual Studio" />
 </p>
 
 <p align="center">
