@@ -1,10 +1,9 @@
 <h1 align="center">I'm Abdullah aka JxA</h1>
 <h3 align="center">I'm a Frontend developer with over 3 years of experience</h3>
 
-<h3 align="center"> 
-- Current Project: [IraqPro vRP FiveM server](https://iraqpro.xyz)
-- I currently focus on Discord.js since its my main source of income. For any help contact me
-</h3>
+<h3 align="center">Current Project: [IraqPro vRP FiveM server](https://discord.gg/r5)</h3>
+<h3 align="center">I currently focus on Discord.js since its my main source of income. For any help contact me</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahjxa" alt="tthedevjxa" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
