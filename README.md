@@ -1,5 +1,4 @@
 <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-<script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
 <h1 align="center">I'm Abdullah aka JxA</h1>
 <h3 align="center">I'm a Frontend developer with over 3 years of experience</h3>
 
