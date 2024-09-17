@@ -4,7 +4,7 @@
 <h3 align="center">🌐 Frontend Developer with 3+ Years of Experience</h3>
 
 <p align="center">🎯 Current Project: <strong><span style="color:#FF5722;">IraqPro vRP FiveM Server</span></strong></p>
-<p align="center">💼 Focused on <strong>Discord.js</strong> as my main source of income.<br>📬 Feel free to reach out for any assistance.</p>
+<p align="center">💼 Focused on <strong>Discord.js & Lua</strong> as my main source of income.<br>📬 Feel free to reach out for any assistance.</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -31,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="40" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="40" alt="Lua" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MYSQL" />
 </p>
 
 <h3 align="center">📊 GitHub Stats ></h3>
