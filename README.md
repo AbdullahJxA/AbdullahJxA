@@ -1,9 +1,9 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/css/boxicons.min.css" rel="stylesheet">
 
 <h1 align="center">👋 Hey, I'm <span style="color:#4CAF50;">Abdullah</span></h1>
-<h3 align="center">🌐 Full-Stack Developer with 3+ Years of Experience</h3>
-
+<h1 align="center" style="font-weight: bold">🌐 Full-Stack Developer with 3+ Years of Experience</h3>
 <p align="center">🎯 Current Project <strong><span style="color:#FF5722;">[ IraqPro vRP FiveM Server ]</span></strong></p>
+</br>
 <p align="center">💼 Focused on <strong>[ Discord.js & Lua</strong> as my main source of income.<br>📬 Feel free to reach out for any assistance. ]</p>
 
 <p align="center">
