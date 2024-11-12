@@ -41,5 +41,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tthedevjxa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tthedevjxa&label=Views&color=633974&style=flat" alt="Profile Views" />
 </p>
