@@ -1,12 +1,12 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Abdullah!;Full+Stack+Developer...;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&lines=Hey!+I'm+Abdullah!;Full+Stack+Developer...;" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah!;" />
 </h1>
 
-<h3 align="center">A Full-Stack Developer from Iraq 🇮🇶</h3>
+<h3 align="center">A Full-Stack Developer from Iraq</h3>
 
 <br />
 
