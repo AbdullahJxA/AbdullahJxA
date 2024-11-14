@@ -1,5 +1,8 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=6c8195&size=40&lines=Hey!+I'm+Abdullah!;Full+Stack+Developer...;" alt="Typing SVG" />
+    <svg xmlns="http://www.w3.org/2000/svg" width="500" height="150" viewBox="0 0 500 150">
+  <text x="50%" y="50%" font-family="Architects Daughter" font-size="40" text-anchor="middle" fill="#6c8195" style="text-shadow: 2px 2px 5px rgba(0,0,0,0.5);">Hey! I'm Abdullah! Full Stack Developer...</text>
+</svg>
+
 </div>
 
 <h1 align="center">
