@@ -28,7 +28,7 @@
 <br />
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" alt="Languages and Frameworks 1" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql,lua" alt="Languages and Frameworks 2" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql,lua,discordjs,jquery,npm" alt="Languages and Frameworks 2" />
 </div>
 <br />
 <hr />
