@@ -1,45 +1,80 @@
-<link href="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/css/boxicons.min.css" rel="stylesheet">
+<div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Abdullah!;Full+Stack+Developer...;"
+            alt="Typing SVG" />
+    </div>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#4CAF50;">Abdullah</span></h1>
-<h1 align="center" style="font-weight: bold">🌐 Full-Stack Developer with 3+ Years of Experience</h3>
-<p align="center">🎯 Current Project <strong><span style="color:#FF5722;">[ IraqPro vRP FiveM Server ]</span></strong></p>
-<p align="center">💼 Focused on <strong>[ Discord.js & Lua</strong> as my main source of income. ]<br>📬 Feel free to reach out for any assistance.</p>
+    <h1 align="center">
+        <img
+            src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah!;" />
+    </h1>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdullahjxa&margin-w=15&theme=gruvbox" alt="JxA's GitHub Trophies" />
-  </a>
-</p>
+    <h3 align="center">A passionate Full-Stack Developer from Iraq 🇮🇶</h3>
 
-<h3 align="center">🤝 Connect with Me</h3>
-<p align="center">
-  <a href="https://instagram.com/vqa.z" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedevjxa" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/jxaab" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jxaab" height="30" width="40" /></a>
-  <a href="https://discord.gg/r5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="عراق نعل" height="30" width="40" /></a>
-  <a href="https://discord.gg/gi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jxfamily" height="30" width="40" /></a>
-</p>
+    <br />
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="npm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="40" alt="jQuery" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="40" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="40" alt="Lua" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" width="40" alt="DiscordJS" />
-</p>
+    <div align="center">
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahjxa&show_icons=true&locale=en&theme=dark" alt="JxA's GitHub Stats" />
-</p>
+        🔭 I'm currently working on **IraqPro vRP FiveM Server**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tthedevjxa&label=Views&color=633974&style=flat" alt="Profile Views" />
-</p>
+        🌱 I'm currently focused on **Discord.js & Lua**
+
+        💬 Ask me about **Node.js, Lua, MongoDB... or anything
+        [here](https://github.com/abdullahjxa/abdullahjxa/issues)**
+
+        ⚡ Fun fact **The Reverse Flash is always one step ahead of everyone**
+    </div>
+    <div align="center">
+        <a href="mailto:pedro.sales.muniz@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+        </a>
+        <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+                target="_blank" />
+        </a>
+        <a href="https://abdullahjxa.github.io" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
+                target="_blank" />
+        </a>
+    </div>
+
+    <hr />
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <br />
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+        <img
+            src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    </div>
+    <br />
+    <hr />
+    <div align="center">
+        <h2>🐍 My Contributions 🐍</h2>
+        <br>
+        <img alt="snake eating my contributions"
+            src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+        <br /><br /><br />
+    </div>
+    <hr />
+    <h2 align="center">⚡ Stats ⚡</h2>
+    <br>
+    <div align=center>
+        <img width=390
+            src="https://github-readme-streak-stats-salesp07.vercel.app/?user=abdullahjxa&count_private=true&theme=react&border_radius=10"
+            alt="streak stats" />
+        <img width=390
+            src="https://github-readme-stats-salesp07.vercel.app/api?username=abdullahjxa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+            alt="readme stats" />
+        <br />
+        <img width=325 align="center"
+            src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdullahjxa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+            alt="top langs" />
+    </div>
+    <br /><br />
+    <hr />
+    <br />
+    <div align="center">
+        <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;'
+                src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    </div>
+    <br />
