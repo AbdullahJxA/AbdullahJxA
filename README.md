@@ -1,44 +1,49 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=6c8195&size=40&lines=Hey!+I%27m+Abdullah!;Full+Stack+Developer...">
-</svg>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=6c8195&size=40&center=true&vCenter=true&width=700&lines=Hey!+I'm+Abdullah!;Full+Stack+Developer+from+Iraq!;Coding+Discord+Bots+%26+Lua+Scripts+..." />
+</div>
+
+---
+
+### About Me
+<div align="center">
+
+I’m currently working on **VSX vRP Files**  
+I'm also willing to do any custom order, you could contact me through Discord **@jxab**
 
 </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah!;" />
-</h1>
+---
 
-<h3 align="center">A Full-Stack Developer from Iraq</h3>
-
-<br />
+### Languages | Frameworks | Tools
 
 <div align="center">
-    🔭 I'm currently working on <strong>VSX vRP Files</strong><br>
-    🌱 I'm currently focused on <strong>Discord.js & Lua</strong><br>
-    💬 Ask me about <strong>Node.js, Lua, MongoDB... or anything</strong> <a href="https://github.com/abdullahjxa/abdullahjxa/issues" target="_blank">here</a><br>
-    ⚡ Fun fact: <strong>The Reverse Flash is always one step ahead of everyone</strong>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,jquery,bootstrap" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,lua,discordjs,npm,git,github,vscode" />
+
 </div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats-salesp07.vercel.app/api?username=abdullahjxa&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true" />
+<img height="190" src="https://github-readme-streak-stats-salesp07.vercel.app?user=abdullahjxa&theme=react&border_radius=10&count_private=true" />
 <br/>
-<div align="center">
-    <a href="https://jxa.world" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-    </a>
+<img height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdullahjxa&hide=html&layout=compact&theme=react&border_radius=10&langs_count=8" />
+
 </div>
 
-<hr />
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<br />
+---
+
+### Connect with Me
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" alt="Languages and Frameworks 1" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql,lua,discordjs,jquery,npm" alt="Languages and Frameworks 2" />
-</div>
-<br />
-<hr />
-<h2 align="center">Stats</h2>
-<br>
-<div align="center">
-    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=abdullahjxa&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=abdullahjxa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <br />
-    <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdullahjxa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<a href="https://jxa.world" target="_blank"><img src="https://img.shields.io/badge/Website-jxa.world-ff5722?style=flat-square&logo=firefox&logoColor=white" /></a>
+<a href="https://github.com/abdullahjxa" target="_blank"><img src="https://img.shields.io/badge/GitHub-abdullahjxa-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
 </div>
