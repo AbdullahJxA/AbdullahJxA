@@ -1,10 +1,4 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=6c8195&size=40&center=true&vCenter=true&width=700&lines=Hey!+I'm+Abdullah!;Full+Stack+Developer+from+Iraq!;Coding+Discord+Bots+%26+Lua+Scripts+..." />
-</div>
-
----
-
 ### About Me
 <div align="center">
 
