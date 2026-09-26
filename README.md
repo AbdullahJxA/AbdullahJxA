@@ -1,7 +1,7 @@
+# I’m currently on a long vacation, I will not reply on any platform. I need to find my passion in life other than my programming skills.
 ### About Me
 <div align="center">
 
-I’m currently working on **VSX vRP Files** & [**Cesium**](https://cesium.ws)
 I'm also willing to do any custom order, you could contact me through Discord **@jxab**
 
 </div>
